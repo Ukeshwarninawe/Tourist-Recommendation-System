@@ -1,0 +1,23 @@
+Destination Name,State,Region,Category,Popular Attraction,Accessibility,Nearest Airport,Nearest Railway Station,Nature,Adventure,Historical,Beach,Wildlife,Family_Friendly,Nightlife
+Thekkady,Kerala,South,Wildlife,Periyar Wildlife Sanctuary,Moderate,Cochin International,Kottayam,5,3,1,1,5,4,1
+Kaziranga National Park,Assam,East,Nature,Kaziranga National Park,Moderate,Jorhat Airport,Furkating,5,3,1,1,4,4,1
+Varanasi,Uttar Pradesh,North,Religious,Ghats of Varanasi,Moderate,Lal Bahadur Shastri,Varanasi Junction,1,1,4,1,1,5,1
+Chikmagalur,Karnataka,South,Nature,Mullayanagiri,Difficult,Mangalore Airport,Kadur,5,4,1,1,2,3,1
+Matheran,Maharashtra,West,Nature,Charlotte Lake,Moderate,Chhatrapati Shivaji Maharaj International,Neral,5,2,1,1,1,4,1
+Hampi,Karnataka,South,Heritage,Virupaksha Temple,Moderate,Hubli Airport,Hospet,2,2,5,1,1,3,1
+Haridwar,Uttarakhand,North,Religious,Har Ki Pauri,Easy,Dehradun Airport,Haridwar Junction,2,1,3,1,1,5,1
+Orchha,Madhya Pradesh,North,Heritage,Orchha Fort,Moderate,Gwalior Airport,Jhansi Junction,2,1,5,1,1,4,1
+Chilika Lake,Odisha,East,Wildlife,Dolphin Point,Moderate,Biju Patnaik Airport,Balugaon,5,2,1,2,5,4,1
+Mysore,Karnataka,South,Heritage,Mysore Palace,Easy,Mysore Airport,Mysore,2,1,5,1,1,5,1
+Kovalam,Kerala,South,Beach,Kovalam Beach,Easy,Trivandrum Airport,Trivandrum Central,3,2,1,5,1,4,3
+Varkala,Kerala,South,Beach,Varkala Cliff,Moderate,Trivandrum Airport,Varkala,4,3,1,5,1,4,3
+Taj Mahal,Uttar Pradesh,North,Heritage,Taj Mahal,Easy,Agra Civil Enclave,Agra Cantt,2,1,5,1,1,5,1
+Hyderabad,Telangana,South,Heritage,Charminar,Easy,Rajiv Gandhi International,Hyderabad Deccan,1,1,4,1,1,4,4
+Ajanta and Ellora Caves,Maharashtra,West,Heritage,Ajanta Caves,Moderate,Aurangabad Airport,Aurangabad,2,1,5,1,1,5,1
+Chennai,Tamil Nadu,South,Family,Marina Beach,Easy,Chennai International,Chennai Central,2,1,3,4,1,4,4
+Alibaug,Maharashtra,West,Beach,Alibaug Beach,Easy,Chhatrapati Shivaji Maharaj International,Pen,3,2,2,4,1,4,2
+Kanyakumari,Tamil Nadu,South,Nature,Vivekananda Rock Memorial,Moderate,Trivandrum Airport,Kanyakumari,3,1,3,4,1,4,1
+Indore,Madhya Pradesh,North,Family,Rajwada Palace,Easy,Devi Ahilya Bai Holkar Airport,Indore Junction,1,1,3,1,1,4,3
+Jodhpur,Rajasthan,West,Heritage,Mehrangarh Fort,Easy,Jodhpur Airport,Jodhpur Junction,1,1,5,1,1,5,2
+Jaisalmer,Rajasthan,West,Heritage,Jaisalmer Fort,Moderate,Jaisalmer Airport,Jaisalmer,2,1,5,1,1,5,1
+Auli,Uttarakhand,North,Adventure,Auli Ski Resort,Difficult,Dehradun Airport,Rishikesh,5,5,1,1,1,3,1

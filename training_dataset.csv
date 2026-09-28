@@ -1,0 +1,89 @@
+Destination Name,State,Region,Category,Popular Attraction,Accessibility,Nearest Airport,Nearest Railway Station,Nature,Adventure,Historical,Beach,Wildlife,Family_Friendly,Nightlife
+Ooty,Tamil Nadu,South,Nature,Ooty Lake,Easy,Coimbatore Airport,Ooty,5,2,1,1,1,5,1
+Dharamshala,Himachal Pradesh,North,Nature,Triund Trek,Moderate,Kangra Airport,Pathankot,5,4,2,1,2,4,1
+Gulmarg,Jammu and Kashmir,North,Adventure,Gulmarg Gondola,Difficult,Srinagar Airport,Jammu Tawi,5,5,1,1,2,3,1
+Mathura,Uttar Pradesh,North,Religious,Krishna Janmabhoomi,Easy,Agra Civil Enclave,Mathura Junction,1,1,4,1,1,5,1
+Bhopal,Madhya Pradesh,North,Heritage,Upper Lake,Easy,Raja Bhoj Airport,Bhopal Junction,3,1,3,1,1,4,2
+Alleppey,Kerala,South,Nature,Houseboat Backwaters,Easy,Cochin International,Alappuzha,5,2,1,2,1,5,1
+Udaipur,Rajasthan,West,Heritage,City Palace,Easy,Udaipur Airport,Udaipur City,2,1,5,1,1,5,1
+Khajuraho,Madhya Pradesh,North,Heritage,Khajuraho Temples,Moderate,Khajuraho Airport,Khajuraho,1,1,5,1,1,4,1
+Bhubaneswar,Odisha,East,Heritage,Lingaraj Temple,Easy,Biju Patnaik Airport,Bhubaneswar,1,1,4,1,1,4,2
+Konark,Odisha,East,Heritage,Sun Temple,Moderate,Biju Patnaik Airport,Puri,1,1,5,2,1,4,1
+Andaman Islands,Andaman and Nicobar,East,Beach,Radhanagar Beach,Moderate,Veer Savarkar International,Port Blair,5,4,1,5,1,4,4
+Chandigarh,Punjab,North,Family,Rock Garden,Easy,Chandigarh Airport,Chandigarh Junction,3,1,2,1,1,5,3
+Mahabaleshwar,Maharashtra,West,Nature,Venna Lake,Moderate,Pune Airport,Pune Junction,4,2,1,1,1,5,1
+Bangalore,Karnataka,South,Family,Lalbagh Garden,Easy,Kempegowda International,Bangalore City,2,1,2,1,1,4,5
+Spiti Valley,Himachal Pradesh,North,Adventure,Key Monastery,Difficult,Bhuntar Airport,Joginder Nagar,5,5,3,1,2,2,1
+Mount Abu,Rajasthan,West,Nature,Nakki Lake,Moderate,Udaipur Airport,Abu Road,4,2,3,1,1,5,2
+Manali,Himachal Pradesh,North,Adventure,Solang Valley,Difficult,Bhuntar Airport,Joginder Nagar,5,5,1,1,1,3,1
+Pune,Maharashtra,West,Family,Shaniwar Wada,Easy,Pune Airport,Pune Junction,2,1,4,1,1,4,4
+Statue of Unity,Gujarat,West,Heritage,Statue of Unity,Easy,Vadodara Airport,Kevadia,2,1,3,1,2,5,1
+Pushkar,Rajasthan,West,Religious,Pushkar Lake,Easy,Jaipur International,Ajmer Junction,2,1,4,1,1,4,2
+Dalhousie,Himachal Pradesh,North,Nature,Khajjiar,Moderate,Kangra Airport,Pathankot,5,3,2,1,1,4,1
+Darjeeling,West Bengal,East,Nature,Tiger Hill,Moderate,Bagdogra Airport,Darjeeling,5,3,1,1,4,4,1
+Lucknow,Uttar Pradesh,North,Heritage,Bara Imambara,Easy,Chaudhary Charan Singh Airport,Lucknow Charbagh,1,1,4,1,1,4,3
+Kufri,Himachal Pradesh,North,Nature,Kufri Fun World,Moderate,Shimla Airport,Shimla,4,3,1,1,2,5,1
+Coorg,Karnataka,South,Nature,Abbey Falls,Moderate,Mangalore Airport,Mysore,5,3,1,1,2,4,1
+Amritsar,Punjab,North,Religious,Golden Temple,Easy,Sri Guru Ram Dass Jee,Amritsar Junction,1,1,4,1,1,5,1
+Chittorgarh,Rajasthan,West,Heritage,Chittorgarh Fort,Moderate,Udaipur Airport,Chittaurgarh,1,1,5,1,1,3,1
+Kodaikanal,Tamil Nadu,South,Nature,Kodaikanal Lake,Moderate,Madurai Airport,Kodai Road,5,2,1,1,1,5,1
+Rameswaram,Tamil Nadu,South,Religious,Ramanathaswamy Temple,Moderate,Madurai Airport,Rameswaram,2,1,4,4,1,4,1
+McLeodganj,Himachal Pradesh,North,Religious,Namgyal Monastery,Moderate,Kangra Airport,Pathankot,4,3,2,1,1,4,2
+Cherrapunji,Meghalaya,East,Nature,Nohkalikai Falls,Difficult,Shillong Airport,Guwahati,5,3,1,1,1,4,1
+Puri,Odisha,East,Religious,Jagannath Temple,Easy,Biju Patnaik Airport,Puri,2,1,4,4,1,5,2
+Tawang,Arunachal Pradesh,East,Nature,Tawang Monastery,Difficult,Tawang Airport,Tezpur,5,4,3,1,2,2,1
+Mussoorie,Uttarakhand,North,Nature,Kempty Falls,Easy,Dehradun Airport,Dehradun,5,3,1,1,1,5,2
+Mahabalipuram,Tamil Nadu,South,Heritage,Shore Temple,Easy,Chennai International,Chengalpattu,2,1,5,4,1,5,1
+Neil Island,Andaman and Nicobar,East,Beach,Bharatpur Beach,Difficult,Veer Savarkar International,Port Blair,4,3,1,5,2,3,1
+Pachmarhi,Madhya Pradesh,North,Nature,Pandav Caves,Difficult,Raja Bhoj Airport,Pipariya,5,4,2,1,3,4,1
+Rishikesh,Uttarakhand,North,Adventure,Lakshman Jhula,Difficult,Dehradun Airport,Rishikesh,5,5,1,1,1,3,1
+Wayanad,Kerala,South,Nature,Edakkal Caves,Difficult,Calicut Airport,Kozhikode,5,4,2,1,4,4,1
+Nainital,Uttarakhand,North,Nature,Naini Lake,Easy,Pantnagar Airport,Kathgodam,5,3,1,1,2,5,2
+Kerala Backwaters,Kerala,South,Nature,Vembanad Lake,Moderate,Cochin International,Alleppey,5,3,1,1,1,4,1
+Munnar,Kerala,South,Nature,Tea Gardens,Moderate,Cochin International,Ernakulam,5,3,1,1,1,5,1
+Ranthambore National Park,Rajasthan,West,Wildlife,Tiger Safari,Moderate,Jaipur International,Sawai Madhopur,4,3,2,1,5,4,1
+Gokarna,Karnataka,South,Beach,Om Beach,Moderate,Goa Airport,Gokarna Road,4,3,2,5,1,3,2
+Sundarbans,West Bengal,East,Nature,Sundarbans National Park,Difficult,Netaji Subhas Chandra Bose,Canning,5,3,1,1,4,4,1
+Jammu,Jammu and Kashmir,North,Religious,Vaishno Devi,Moderate,Jammu Airport,Jammu Tawi,2,2,3,1,1,5,1
+Digha,West Bengal,East,Beach,Digha Beach,Easy,Netaji Subhas Chandra Bose,Digha,3,2,1,4,1,5,2
+Shillong,Meghalaya,East,Nature,Elephant Falls,Moderate,Shillong Airport,Guwahati,5,3,1,1,2,4,2
+Lonavala,Maharashtra,West,Nature,Bhushi Dam,Easy,Pune Airport,Lonavala,4,3,1,1,1,5,2
+Kanha National Park,Madhya Pradesh,North,Wildlife,Tiger Safari,Difficult,Jabalpur Airport,Jabalpur,4,3,1,1,5,3,1
+Betla National Park,Jharkhand,East,Wildlife,Tiger Reserve,Difficult,Birsa Munda Airport,Daltonganj,4,3,1,1,5,3,1
+Gwalior,Madhya Pradesh,North,Heritage,Gwalior Fort,Easy,Gwalior Airport,Gwalior Junction,1,1,5,1,1,4,1
+Tirupati,Andhra Pradesh,South,Religious,Tirumala Venkateswara Temple,Moderate,Tirupati Airport,Tirupati,2,1,3,1,1,5,1
+Somnath,Gujarat,West,Religious,Somnath Temple,Moderate,Diu Airport,Veraval,2,1,4,3,1,4,1
+Yumthang Valley,Sikkim,East,Nature,Valley of Flowers,Difficult,Pakyong Airport,New Jalpaiguri,5,4,1,1,2,2,1
+Havelock Island,Andaman and Nicobar,East,Beach,Radhanagar Beach,Difficult,Veer Savarkar International,Port Blair,4,4,1,5,2,4,2
+Bikaner,Rajasthan,West,Heritage,Junagarh Fort,Moderate,Bikaner Airport,Bikaner Junction,1,1,5,1,1,4,1
+Rann of Kutch,Gujarat,West,Nature,White Desert,Moderate,Bhuj Airport,Bhuj,4,3,2,1,2,4,1
+Sanchi,Madhya Pradesh,North,Heritage,Sanchi Stupa,Moderate,Raja Bhoj Airport,Sanchi,1,1,5,1,1,3,1
+Majuli,Assam,East,Nature,River Island,Moderate,Jorhat Airport,Jorhat,4,2,2,1,3,3,1
+Ahmedabad,Gujarat,West,Heritage,Sabarmati Ashram,Easy,Sardar Vallabhbhai Patel International,Ahmedabad Junction,1,1,4,1,1,4,2
+Thanjavur,Tamil Nadu,South,Heritage,Brihadeeswarar Temple,Moderate,Tiruchirappalli Airport,Thanjavur,1,1,5,1,1,3,1
+Fatehpur Sikri,Uttar Pradesh,North,Heritage,Buland Darwaza,Easy,Agra Civil Enclave,Fatehpur Sikri,1,1,5,1,1,4,1
+Delhi,Delhi,North,Heritage,Red Fort,Easy,Indira Gandhi International,New Delhi,1,1,5,1,1,5,5
+Diu,Daman and Diu,West,Beach,Diu Beach,Easy,Diu Airport,Veraval,3,2,3,5,1,4,2
+Nashik,Maharashtra,West,Religious,Trimbakeshwar Temple,Easy,Nashik Airport,Nashik Road,3,1,3,1,1,4,2
+Nagpur,Maharashtra,West,Family,Deekshabhoomi,Easy,Dr. Babasaheb Ambedkar International,Nagpur Junction,2,1,3,1,1,4,2
+Jim Corbett National Park,Uttarakhand,North,Wildlife,Tiger Safari,Moderate,Pantnagar Airport,Ramnagar,4,3,1,1,5,4,1
+Kasol,Himachal Pradesh,North,Adventure,Parvati Valley,Difficult,Bhuntar Airport,Joginder Nagar,5,4,1,1,1,2,3
+Ranchi,Jharkhand,East,Nature,Hundru Falls,Moderate,Birsa Munda Airport,Ranchi Junction,4,3,1,1,2,4,2
+Jaipur,Rajasthan,West,Heritage,Amber Fort,Easy,Jaipur International,Jaipur Junction,2,1,5,1,1,5,1
+Mumbai,Maharashtra,West,Family,Gateway of India,Easy,Chhatrapati Shivaji Maharaj International,Chhatrapati Shivaji Terminus,1,1,4,3,1,4,5
+Srinagar,Jammu and Kashmir,North,Nature,Dal Lake,Moderate,Srinagar Airport,Jammu Tawi,5,3,3,1,2,4,2
+Goa,Goa,West,Beach,Calangute Beach,Easy,Dabolim Airport,Madgaon Railway Station,4,4,1,5,1,4,4
+Pahalgam,Jammu and Kashmir,North,Nature,Betaab Valley,Moderate,Srinagar Airport,Jammu Tawi,5,4,1,1,2,4,1
+Kolkata,West Bengal,East,Family,Victoria Memorial,Easy,Netaji Subhas Chandra Bose,Howrah Junction,2,1,4,1,1,4,4
+Lakshadweep,Lakshadweep,South,Beach,Agatti Island,Difficult,Agatti Airport,Kochi Harbour,4,4,1,5,2,3,1
+Madurai,Tamil Nadu,South,Religious,Meenakshi Temple,Easy,Madurai Airport,Madurai Junction,1,1,5,1,1,4,2
+Badami,Karnataka,South,Heritage,Badami Caves,Moderate,Hubli Airport,Badami,2,2,5,1,1,3,1
+Warangal,Telangana,South,Heritage,Warangal Fort,Moderate,Rajiv Gandhi International,Warangal,1,1,4,1,1,3,1
+Chandratal Lake,Himachal Pradesh,North,Adventure,Chandratal Trek,Difficult,Bhuntar Airport,Joginder Nagar,5,5,1,1,2,1,1
+Leh,Ladakh,North,Adventure,Pangong Lake,Difficult,Kushok Bakula Rimpochee Airport,Jammu Tawi,5,5,2,1,2,2,1
+Dwarka,Gujarat,West,Religious,Dwarkadhish Temple,Moderate,Jamnagar Airport,Dwarka,1,1,4,2,1,4,1
+Pondicherry,Puducherry,South,Beach,Promenade Beach,Easy,Chennai International,Puducherry,3,2,3,4,1,4,4
+Shimla,Himachal Pradesh,North,Nature,Mall Road,Easy,Shimla Airport,Shimla,5,3,1,1,1,4,1
+Gangtok,Sikkim,East,Nature,Tsomgo Lake,Difficult,Pakyong Airport,New Jalpaiguri,5,4,1,1,2,4,2
+Bandhavgarh National Park,Madhya Pradesh,North,Wildlife,Tiger Safari,Difficult,Jabalpur Airport,Umaria,4,3,1,1,5,3,1
+Agra,Uttar Pradesh,North,Heritage,Agra Fort,Easy,Agra Civil Enclave,Agra Cantt,1,1,5,1,1,5,1
