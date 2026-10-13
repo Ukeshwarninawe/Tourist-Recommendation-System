@@ -1,11 +1,9 @@
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split, KFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
-
 
 # 1. LOAD DATASET
 df = pd.read_csv("cleaned_dataset.csv")
